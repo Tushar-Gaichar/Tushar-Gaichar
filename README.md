@@ -1,5 +1,5 @@
 
-<h1 align=centre>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=440&lines=Hello%20world!+I'm+%3CTushar-Gaichar%2F%3E++%F0%9F%92%BB)](https://git.io/typing-svg)</h1>
+<h1 align=centre><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=440&lines=Hello%20world!+I'm+%3CTushar-Gaichar%2F%3E++%F0%9F%92%BB" alt="Typing SVG">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=440&lines=Hello%20world!+I'm+%3CTushar-Gaichar%2F%3E++%F0%9F%92%BB)](https://git.io/typing-svg)</h1>
 
 ---
 
