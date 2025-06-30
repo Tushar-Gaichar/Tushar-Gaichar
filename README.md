@@ -6,7 +6,7 @@
 - 🧠 Passionate about **Artificial Intelligence, Hardware Engineering, and Embedded Systems**
 - 💻 Currently working on:
   - 🚛 A **SimDashboard app** for Euro Truck Simulator 2
-- 🌱 Currently learning: `Python`, `C++`, `Arduino`, `Linux`, `AI & ML`,`Ubuntu`
+- 🌱 Currently learning: `Python`, `C++`, `Linux`, `AI & ML`,`Ubuntu`
 - 🧑‍🔬 Aspiring to become an **Artificial Intelligence engineer**
 
 ## 🛠️ Tech Stack
