@@ -19,12 +19,6 @@
 
 ### 🛠️ Tech Stack
 
-```json
-{
-  "Languages": ["Python", "C/C++", "HTML", "CSS", "Markdown"],
-  "Tools & Frameworks": ["Arduino", "Photoshop CS6", "Figma", "Git"],
-  "Platforms": ["Windows", "Linux (Ubuntu, Elementary OS)", "Android"],
-  "Current Interests": ["Next.js", "Tailwind CSS", "Machine Learning", "3D Modeling"]
-}
+[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python)
 
 
