@@ -1,6 +1,6 @@
 ## <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">Hey there! I'm Tushar</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=440&lines=Hello%20world!%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+%3CTushar-Gaichar%2F%3E++%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=440&lines=Hello%20world!F0%9F%91%8B+I'm+%3CTushar-Gaichar%2F%3E++%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 
