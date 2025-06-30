@@ -7,7 +7,7 @@
 - 💻 Currently working on:
   - 🚛 A **SimDashboard app** for Euro Truck Simulator 2
 - 🌱 Currently learning: `Python`, `C++`, `Arduino`, `Linux`, `AI & ML`,`Ubuntu`
-- 🧑‍🔬 Aspiring to start India’s first successful **AI chip manufacturing company**
+- 🧑‍🔬 Aspiring to become an **Artificial Intelligence engineer**
 
 ## 🛠️ Tech Stack
 ### Languages:
