@@ -7,11 +7,10 @@
 - 🧠 Passionate about **Artificial Intelligence, Hardware Engineering, and Embedded Systems**
 - 💻 Currently working on:
   - 🚛 A **SimDashboard app** for Euro Truck Simulator 2
-- 🌱 Currently learning: `Python`, `C++`, `Linux`, `AI & ML`,`Ubuntu`
+- 🌱 Currently learning: `Python`, `Machine Learning`, `Pandas`, `Matplotlib`, `Calculus`
 - 🧑‍🔬 Aspiring to become an **Artificial Intelligence engineer**
 
 ## 🛠️ Tech Stack
-### Languages:
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python)
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -19,4 +18,4 @@
 [![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![typescript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)](https://www.typescriptlang.org)
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/topics/javascript)
-
+[![pandas](![Pandas](https://img.shields.io/badge/Pandas-%2300507A.svg?style=flat&logo=pandas&logoColor=white)]
