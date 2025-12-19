@@ -18,4 +18,4 @@
 [![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![typescript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)](https://www.typescriptlang.org)
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/topics/javascript)
-[![Pandas](https://img.shields.io/badge/Pandas-%2300507A.svg?style=flat&logo=pandas&logoColor=white)]
+![Pandas](https://img.shields.io/badge/Pandas-%2300507A.svg?style=flat&logo=pandas&logoColor=white)
